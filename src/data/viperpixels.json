@@ -1,0 +1,1698 @@
+[
+  {
+    "nome": "ascent",
+    "link_capa": "pixels/ascent/TelaDeCarregamentoPrincipal.png",
+
+    "lista_de_pixeis": [
+      {
+        "nome": "ascent-bombA-pixel1",
+        "capa": "pixels/ascent/bomb-a/pixel-1/plantpadrao-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito1/plantPadrao.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito1/plantPadrao-2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito1/plantPadrao-resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito2/plantPadrao-jeito2.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito2/plantPadrao-1-jeito2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito2/plantPadrao-2-jeito2__2_.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-1/plant_Padrao/jeito2/plantPadrao-resultado-jeito2.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "ascent-bombA-pixel2",
+        "capa": "pixels/ascent/bomb-a/pixel-2/atras_do_gerador-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-a/pixel-2/atras_do_gerador/atrasdogerador.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-2/atras_do_gerador/atras_do_gerador-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-2/atras_do_gerador/atras_do_gerador-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-2/atras_do_gerador/atras_do_gerador-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombA-pixel3",
+        "capa": "pixels/ascent/bomb-a/pixel-3/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-a/pixel-3/venenoCeu/venenoCeu.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-3/venenoCeu/venenoCeu-1.webp",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-3/venenoCeu/venenoCeu-2.webp?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-3/venenoCeu/venenoCeu-resultado.webp",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombA-pixel4",
+        "capa": "pixels/ascent/bomb-a/pixel-4/plantGerador-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito1/plantgerador-jeito1.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito1/plantGerador-1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito1/plantGerador-2.png?tr=w-700,h-450,cm-extract",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito1/plantGerador-resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito2/plantgerador-jeito2.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito2/plantGerador-1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito2/plantGerador-1.1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito2/plantGerador-2.png?tr=w-700,h-450,cm-extract",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito2/plantGerador-resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito3/plantgerador-jeito3.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito3/plantGerador-1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito3/plantGerador-2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-a/pixel-4/plantGerador/jeito3/plantGerador-resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "ascent-bombA-pixel5",
+        "capa": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde/smokecaixaverde.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde/smokeCaixaVerde-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde/smokeCaixaVerde-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde/smokeCaixaVerde-2.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-5/smokeCaixaVerde/smokeCaixaVerde-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombA-pixel6",
+        "capa": "pixels/ascent/bomb-a/pixel-6/smokeOneway/smokeOneway.webp",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-a/pixel-6/smokeOneway/jeito_1/smokeOneWay-jeito1.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-6/smokeOneway/jeito_1/smokeOneway-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-6/smokeOneway/jeito_1/smokeOneway-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-6/smokeOneway/jeito_1/smokeOneway-2.webp",
+            "texto": "Pula e joga ao mesmo tempo"
+          },
+          {
+            "link": "pixels/ascent/bomb-a/pixel-6/smokeOneway/jeito_1/smokeOneway-2.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombB-pixel1",
+        "capa": "pixels/ascent/bomb-b/pixel-1/escadaCtAtaque-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-b/pixel-1/escadaCtAtaque/venenoescada.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-1/escadaCtAtaque/escadaCtAtaque-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-1/escadaCtAtaque/escadaCtAtaque-2.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-1/escadaCtAtaque/escadaCtAtaque-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombB-pixel2",
+        "capa": "pixels/ascent/bomb-b/pixel-2/pixelAtaqueCtB-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-b/pixel-2/pixel2-B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-2/pixelAtaqueCt/pixelAtaqueCtB-local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-2/pixelAtaqueCt/pixelAtaqueCtB-ficaai.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-2/pixelAtaqueCt/pixelAtaqueCtB-miraali.png",
+            "texto": "anda e joga"
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-2/pixelAtaqueCt/pixelAtaqueCtB-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombB-pixel3",
+        "capa": "pixels/ascent/bomb-b/pixel-3/pixelParedeMercadoECt-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-b/pixel-3/pixel3.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-3/pixelParedeMercado/pixelParedeMercadoECt-local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-3/pixelParedeMercado/pixelParedeMercadoECt-miraali.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-3/pixelParedeMercado/pixelParedeMercadoECt-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-bombB-pixel4",
+        "capa": "pixels/ascent/bomb-b/pixel-4/resultadoSemPular__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-1/pixel4-B.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-1/plantPadrao-1-jeito1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-1/plantPadrao-1.1-jeito1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-1/plantPadrao-2-jeito1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-1/plantPadrao-resultado1-jeito1.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito_2/pixel4.2-B.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito_2/local2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito_2/pixel.png",
+              "texto": "Linha a baixo do 100 na junção dos tijolos com a calha"
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito_2/resultadoSemPular.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-3/pixel4.1-B.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-3/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-3/pixel.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/ascent/bomb-b/pixel-4/plantPadrao/jeito-3/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "ascent-bombB-pixel5",
+        "capa": "pixels/ascent/bomb-b/pixel-5/venenoMercado-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/bomb-b/pixel-5/venenoMercado/venenomercado.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-5/venenoMercado/venenoMercado-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-5/venenoMercado/venenoMercado-2.png?tr=w-700,h-450,cm-extract",
+            "texto": "Olho da girafa"
+          },
+          {
+            "link": "pixels/ascent/bomb-b/pixel-5/venenoMercado/venenoMercado-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-meio-pixel1",
+        "capa": "pixels/ascent/pixelsgerais/pixel-1/smoke_onway_jardim-resultado__2_.png",
+        "localização": "meio",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-1/pixel1.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-1/smoke_onway_jardim/smoke_onway_jardim-local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-1/smoke_onway_jardim/smoke_onway_jardim-miraali.png",
+            "texto": "Pula e joga ao mesmo tempo"
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-1/smoke_onway_jardim/smoke_onway_jardim-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "ascent-meio-pixel2",
+        "capa": "pixels/ascent/pixelsgerais/pixel-2/parede_meio_e_jardim/paredeMeioJardim.png",
+        "localização": "meio",
+        "passo_a_passo": [
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-2/pixel2.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-2/parede_meio_e_jardim/paredeMeioJardim-local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-2/parede_meio_e_jardim/paredeMeioJardim-mirali.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/ascent/pixelsgerais/pixel-2/parede_meio_e_jardim/paredeMeioJardim.png",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "bind",
+    "link_capa": "pixels/Bind/telaDeCarregamento__2_.png",
+    "lista_de_pixeis": []
+  },
+  {
+    "nome": "breeze",
+    "link_capa": "pixels/Breeze/telaDeCarregamento__2_.png",
+    "lista_de_pixeis": []
+  },
+  {
+    "nome": "fracture",
+    "link_capa": "pixels/Fracture/telaDeCarregamento__2_.png",
+    "lista_de_pixeis": []
+  },
+  {
+    "nome": "haven",
+    "link_capa": "pixels/Haven/telaDeCarregamento.png",
+    "lista_de_pixeis": [
+      {
+        "nome": "haven-bombA-pixel1",
+        "capa": "pixels/Haven/bomb_A/pixel_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Haven/bomb_A/pixel_1/pixel1A-haven.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_1/local.png",
+            "texto": "Do lado desse carrinho de mão"
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_1/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": "mire na segunda lampada"
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "haven-bombA-pixel2",
+        "capa": "pixels/Haven/bomb_A/pixel_2/jeito_1/resultado.png?tr=w-500,h-500,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_1/pixel2A___Feito_com_o_Clipchamp.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_1/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_1/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_1/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_2/pixel2A-haven.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_2/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "haven-bombA-pixel3",
+        "capa": "pixels/Haven/bomb_A/pixel_3/jeito_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_1/pixel2A-haven.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_2/jeito_1/local.png",
+              "texto": ""
+            },
+            {
+              "link": "",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_1/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_2/pixel3A-haven.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_2/mira.png",
+              "texto": "mire na ponta do telhado"
+            },
+            {
+              "link": "pixels/Haven/bomb_A/pixel_3/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "haven-bombA-pixel4",
+        "capa": "pixels/Haven/bomb_A/pixel_4/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Haven/bomb_A/pixel_4/pixel3A-haven.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_4/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_4/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_A/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "haven-bombB-pixel1",
+        "capa": "pixels/Haven/bomb_B/pixel_1/jeito_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_1/pixel1B-haven___Feito_com_o_Clipchamp.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_1/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_1/mira.png?tr=w-700,h-450,cm-extract",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_1/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_2/pixel1B.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_2/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_1/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "haven-bombB-pixel2",
+        "capa": "pixels/Haven/bomb_B/pixel_2/jeito_1/reusltado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_1/pixel2B-haven___Feito_com_o_Clipchamp.gif?ik-sdk-version=javascript-1.4.3&",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_1/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_1/mira.png?tr=w-700,h-450,cm-extract",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_1/reusltado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_2/pixel2B.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_2/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_B/pixel_2/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "haven-bombB-pixel3",
+        "capa": "pixels/Haven/bomb_B/pixel_3/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Haven/bomb_B/pixel_3/pixel3B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_3/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_3/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_3/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "haven-bombB-pixel4",
+        "capa": "pixels/Haven/bomb_B/pixel_4/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Haven/bomb_B/pixel_4/pixel4B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_4/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_4/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_B/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "haven-bombC-pixel1",
+        "capa": "pixels/Haven/bomb_C/pixel_1/jeito_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-c",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_1/pixel1C-haven.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_1/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_1/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_1/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_2/pixel1C-haven___Feito_com_o_Clipchamp.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_2/mira.png",
+              "texto": "Apoie o E no 1º degrau"
+            },
+            {
+              "link": "pixels/Haven/bomb_C/pixel_1/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "haven-bombc-pixel2",
+        "capa": "pixels/Haven/bomb_C/pixel_2/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-c",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Haven/bomb_C/pixel_2/pixel2C___Feito_com_o_Clipchamp.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_C/pixel_2/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_C/pixel_2/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Haven/bomb_C/pixel_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "icebox",
+    "link_capa": "pixels/Icebox/telaDeCarregamento.png",
+    "lista_de_pixeis": [
+      {
+        "nome": "icebox-bombA-pixel1",
+        "capa": "pixels/Icebox/bomb_A/pixel_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_1/pixel1_A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_1/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_1/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombA-pixel2",
+        "capa": "pixels/Icebox/bomb_A/pixel_2/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_2/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombA-pixel3",
+        "capa": "pixels/Icebox/bomb_A/pixel_3/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_3/pixel3_A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_3/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_3/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_3/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombA-pixel4",
+        "capa": "pixels/Icebox/bomb_A/pixel_4/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_4/pixel4_A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_4/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_4/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombA-pixel5",
+        "capa": "pixels/Icebox/bomb_A/pixel_5/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_5/pixel5_A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_5/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_5/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_5/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombA-pixel6",
+        "capa": "pixels/Icebox/bomb_A/pixel_6/jeito_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_6/pixel6_A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_6/jeito_2/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_6/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_A/pixel_6/jeito_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel1",
+        "capa": "pixels/Icebox/bomb_B/pixel_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_1/pixel1_B.gif?",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_1/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_1/mira.png",
+            "texto": "Pula e joga ao mesmo tempo"
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel2",
+        "capa": "pixels/Icebox/bomb_B/pixel_2/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_2/pixel2_B.gif?tr=w-700,h-700,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_2/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_2/local2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_2/mira2.png",
+            "texto": "coloque a ponta da nuvem de fumaça no ping"
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel3",
+        "capa": "pixels/Icebox/bomb_B/pixel_3/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_3/pixel3_B.gif?",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_3/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_3/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_3/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel4",
+        "capa": "pixels/Icebox/bomb_B/pixel_4/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_4/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel5",
+        "capa": "pixels/Icebox/bomb_B/pixel_5/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_5/pixel5_B.gif?",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_5/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_5/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_5/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel6",
+        "capa": "pixels/Icebox/bomb_B/pixel_6/jeito_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_1/pixel6_jeito1_B.gif?",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_1/local2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_1/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_1/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_2/pixel6_jeito2_B.gif?",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_2/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_2/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_2/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_3/pixel7_jeito3_B.gif?",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_3/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_3/mira.png?tr=w-700,h-450,cm-extract",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_3/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_4/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_4/local2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_4/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_4/resultado.png",
+              "texto": ""
+            }
+          ],
+          [
+            {
+              "link": "",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_7/local.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_7/local2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_7/mira.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Icebox/bomb_B/pixel_6/jeito_7/resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "icebox-bombB-pixel7",
+        "capa": "pixels/Icebox/bomb_B/pixel_7/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_7/pixel7_B.gif?",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_7/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_7/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/bomb_B/pixel_7/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-meio-pixel1",
+        "capa": "pixels/Icebox/meio/pixel_1/resultado.png?tr=w-700,h-700,cm-extract",
+        "localização": "meio",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/meio/pixel_1/pixel1_meio.gif?",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/meio/pixel_1/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/meio/pixel_1/mira2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/meio/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "icebox-meio-pixel2",
+        "capa": "pixels/Icebox/meio/pixel_2/resultado3.png",
+        "localização": "meio",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Icebox/meio/pixel_2/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Icebox/meio/pixel_2/resultado3.png",
+            "texto": ""
+          }
+        ]
+      },
+      {}
+    ]
+  },
+  {
+    "nome": "lotus",
+    "link_capa": "pixels/Lotus/telaDeCarregamento.png",
+    "lista_de_pixeis": [
+      {
+        "nome": "lotus-bombA-pixel1",
+        "capa": "pixels/Lotus/Bomb-A/pixel_1/pixel1-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_1/pixel1-lotus.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_1/pixel1-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_1/pixel1-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_1/pixel1-2.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_1/pixel1-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombA-pixel2",
+        "capa": "pixels/Lotus/Bomb-A/pixel_2/pixel2-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_2/pixel2-A.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_2/pixel2-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_2/pixel2-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_2/pixel2-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_2/pixel2-resultado__2_.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombA-pixel3",
+        "capa": "pixels/Lotus/Bomb-A/pixel_3/jeito_1/pixel3-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          [
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/pixel3-A.gif",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_1/pixel3-1.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_1/pixel3-1.1.png",
+              "texto": "alinhe-se com esse galho"
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_1/pixel3-2.png",
+              "texto": "Quando o dedo da Viper estiver o mais alto possível, alinhe ele com essa quina e jogue o veneno"
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_1/pixel3-resultado.png",
+              "texto": ""
+            }
+          ],
+
+          [
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_2/pixel4-1.png",
+              "texto": "encoste no centro dessa pilastra"
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_2/pixel4-2.png",
+              "texto": ""
+            },
+            {
+              "link": "pixels/Lotus/Bomb-A/pixel_3/jeito_2/pixel4-resultado.png",
+              "texto": ""
+            }
+          ]
+        ]
+      },
+      {
+        "nome": "lotus-bombA-pixel4",
+        "capa": "pixels/Lotus/Bomb-A/pixel_4/pixel5-resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_4/pixel5-1.png",
+            "texto": "Encoste nessa pilastra"
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_4/pixel5-1.1.png",
+            "texto": "Coloque o 'e' em cima dessa contrução, como na imagem a seguir "
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_4/pixel5-2.png",
+            "texto": "Dessa forma"
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_4/pixel5-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombB-pixel1",
+        "capa": "pixels/Lotus/Bomb-B/pixel_1/pixel1-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_1/pixel1-B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_1/pixel1-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_1/pixel1-2.png",
+            "texto": "alinhe a ponta da barra de veneno na pétala lotus"
+          },
+          {
+            "link": "pixels/Lotus/Bomb-A/pixel_4/pixel5-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombB-pixel2",
+        "capa": "pixels/Lotus/Bomb-B/pixel_2/pixel2-resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_2/pixel2-B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_2/pixel2-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_2/pixel2-2.png",
+            "texto": "alinhe o 3º risco da barra de veneno com a parede"
+          },
+          {
+            "link": "pixels/Lotus/Bomb-B/pixel_2/pixel2-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombC-pixel1",
+        "capa": "pixels/Lotus/Bomb-c/pixel_1/pixel1-resultado__2_.png",
+        "localização": "bomb-c",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_1/pixel1-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_1/pixel1-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_1/pixel1-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_1/pixel1-resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "lotus-bombC-pixel2",
+        "capa": "pixels/Lotus/Bomb-c/pixel_2/pixel2-resultado__2_.png",
+        "localização": "bomb-c",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_2/pixel2-c.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_2/pixel2-1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_2/pixel2-1.1.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_2/pixel2-2.png",
+            "texto": "A mira acima do mouse"
+          },
+          {
+            "link": "pixels/Lotus/Bomb-c/pixel_2/pixel2-resultado.png",
+            "texto": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "pearl",
+    "link_capa": "pixels/Pearl/telaDeCarregamento__2_.png",
+    "lista_de_pixeis": []
+  },
+  {
+    "nome": "split",
+    "link_capa": "pixels/Split/telaDeCarregamento.png",
+    "lista_de_pixeis": [
+      {
+        "nome": "split-bombA-pixel1",
+        "capa": "pixels/Split/Bomb_A/pixel_1/resultado.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_1/pixel1A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_1/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_1/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel2",
+        "capa": "pixels/Split/Bomb_A/pixel_2/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_2/pixel2A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_2/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_2/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel3",
+        "capa": "pixels/Split/Bomb_A/pixel_3/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_3/pixel3A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_3/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_3/local-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_3/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_3/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel4",
+        "capa": "pixels/Split/Bomb_A/pixel_4/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_4/pixel4A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_4/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_4/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": "Mire na ponta do pinheiro"
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel5",
+        "capa": "pixels/Split/Bomb_A/pixel_5/barrinha.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_5/pixel5A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_5/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_5/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_5/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel6",
+        "capa": "pixels/Split/Bomb_A/pixel_6/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_6/pixel6A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_6/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_6/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_6/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombA-pixel7",
+        "capa": "pixels/Split/Bomb_A/pixel_7/resultado__2_.png",
+        "localização": "bomb-a",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_A/pixel_7/pixel7A-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_7/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_7/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_A/pixel_7/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombB-pixel1",
+        "capa": "pixels/Split/Bomb_B/pixel_1/resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_B/pixel_1/pixel1B-split.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_1/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_1/local-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_1/mira.png?tr=w-700,h-450,cm-extract",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_1/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombB-pixel2",
+        "capa": "pixels/Split/Bomb_B/pixel_2/resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_B/pixel_2/pixel2B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_2/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_2/local-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_2/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_2/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombB-pixel3",
+        "capa": "pixels/Split/Bomb_B/pixel_3/resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_B/pixel_3/pixel3B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_3/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_3/local-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_3/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_3/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+      {
+        "nome": "split-bombB-pixel4",
+        "capa": "pixels/Split/Bomb_B/pixel_4/resultado__2_.png",
+        "localização": "bomb-b",
+        "passo_a_passo": [
+          {
+            "link": "pixels/Split/Bomb_B/pixel_4/pixel4B.gif",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_4/local.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_4/local-2.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_4/mira.png",
+            "texto": ""
+          },
+          {
+            "link": "pixels/Split/Bomb_B/pixel_4/resultado.png",
+            "texto": ""
+          }
+        ]
+      },
+
+      {}
+    ]
+  }
+]
